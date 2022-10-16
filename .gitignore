@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/.vsconfig
+/UserSettings/EditorUserSettings.asset
+/UserSettings/Layouts/default-2021.dwlt
+/UserSettings/Search.settings
